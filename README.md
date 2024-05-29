@@ -37,8 +37,11 @@ Enter the number of queens (minimum 4): 4
 The possible solution for 4 queens is:
 
 0 1 0 0
+
 0 0 0 1
+
 1 0 0 0
+
 0 0 1 0
 
 
