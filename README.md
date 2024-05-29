@@ -45,6 +45,7 @@ The possible solution for 4 queens is:
 0 0 1 0
 
 
+
 > Code Structure:
 
 "NQueensProblem.cpp" contains the implementation of the N-Queens problem solver using recursion and a backtracking algorithm.
